@@ -17,6 +17,9 @@
   align-items: center;
   justify-content: flex-end;
 }
+.header .options .pointer {
+  cursor: pointer;
+}
 .header .options .option {
   padding: 10px 15px;
 }
